@@ -95,8 +95,7 @@ class UserDetail(generics.RetrieveAPIView):
 class ToDoList(generics.ListCreateAPIView):
     queryset = ToDo.objects.all()
     serializer_class = ToDoSerializer
-    permission_classes = [permissions.IsAuthenticatedOrReadOnly,
-                          IsOwnerOrReadOnly]
+    permission_classes = [IsAuthenticated]
 
     def get_queryset(self):
         return ToDo.objects.filter(owner=self.request.user)
@@ -110,7 +109,7 @@ class ToDoDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = ToDo.objects.all()
     serializer_class = ToDoSerializer
     permission_classes = [permissions.IsAuthenticatedOrReadOnly,
-                          IsOwnerOrReadOnly]
+                          IsAuthenticated]
 
     def get_queryset(self):
         return ToDo.objects.filter(owner=self.request.user)
