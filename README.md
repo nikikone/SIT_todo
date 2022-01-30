@@ -36,7 +36,7 @@
 
 
 <a name="lab5"></a>
-# Лабораторная работа №1
+# Лабораторная работа №5
 ## Pycodestyle
 ### serializers до:
 ![13](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pycodestyle_ser.png)
