@@ -1,12 +1,12 @@
+"""Документация."""
 from django.urls import path, include
-from rest_framework.urlpatterns import format_suffix_patterns
 from . import views
 from .views import FileView, FileViewDetail
 
 urlpatterns = [
     path('', views.taskList, name='tasks'),
-    #path('users/', views.UserList.as_view()),
-    #path('users/<int:pk>/', views.UserDetail.as_view()),
+    # path('users/', views.UserList.as_view()),
+    # path('users/<int:pk>/', views.UserDetail.as_view()),
     path('todo/', views.ToDoList.as_view()),
     path('todo/<int:pk>/', views.ToDoDetail.as_view()),
     path('', include('djoser.urls')),
