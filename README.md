@@ -37,43 +37,43 @@
 
 <a name="lab5"></a>
 # Лабораторная работа №5
-## Pycodestyle
-### serializers до:
+### Pycodestyle
+#### serializers до:
 ![13](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pycodestyle_ser.png)
-### serializers после:
+#### serializers после:
 ![14](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pycodestyle_ser2.png)
-### urls до:
+#### urls до:
 ![15](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pycodestyle_urls.png)
-### urls после:
+#### urls после:
 ![16](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pycodestyle_urls2.png)
-### views до:
+#### views до:
 ![17](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pycodestyle_views.png)
-### views после:
+#### views после:
 ![18](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pycodestyle_views2.png)
-## Pydocstyle
-### serializers до:
+### Pydocstyle
+#### serializers до:
 ![19](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pydocstyle_ser.png)
-### serializers после:
+#### serializers после:
 ![20](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pydocstyle_ser2.png)
-### urls до:
+#### urls до:
 ![21](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pydocstyle_urls.png)
-### urls после:
+#### urls после:
 ![22](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pydocstyle_urls2.png)
-### views до:
+#### views до:
 ![23](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pydocstyle_views.png)
-### views после:
+#### views после:
 ![24](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pydocstyle_views2.png)
 ![25](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pydocstyle_views3.png)
-## Pyflakes
-### serializers до:
+### Pyflakes
+#### serializers до:
 ![26](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pyflakes_ser.png)
-### serializers после:
+#### serializers после:
 ![27](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pyflakes_ser2.png)
-### urls до:
+#### urls до:
 ![28](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pyflakes_urls.png)
-### urls после:
+#### urls после:
 ![29](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pyflakes_urls2.png)
-### views до:
+#### views до:
 ![30](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pyflakes_views.png)
-### views после:
+#### views после:
 ![31](https://github.com/nikikone/SIT_todo/blob/main/Screen_5_lab/pyflakes_views2.png)
